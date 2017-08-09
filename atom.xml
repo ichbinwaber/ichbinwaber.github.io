@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Waber&#39;s Blog</title>
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://waberyang.com/"/>
+  <updated>2017-08-07T15:09:34.136Z</updated>
+  <id>http://waberyang.com/</id>
+  
+  <author>
+    <name>waberyang</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hi,I am waber</title>
+    <link href="http://waberyang.com/2017/08/07/Hi-I-am-waber/"/>
+    <id>http://waberyang.com/2017/08/07/Hi-I-am-waber/</id>
+    <published>2017-08-07T14:51:52.000Z</published>
+    <updated>2017-08-07T15:09:34.136Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;Hi-I-am-waber&quot;&gt;&lt;a href=&quot;#Hi-I-am-waber&quot; class=&quot;headerlink&quot; title=&quot;Hi, I am waber&quot;&gt;&lt;/a&gt;Hi, I am waber&lt;/h4&gt;&lt;p&gt;这是一个开始&lt;br&gt;我心心念念的个人博客，现在终
+    
+    </summary>
+    
+    
+      <category term="周遭" scheme="http://waberyang.com/tags/%E5%91%A8%E9%81%AD/"/>
+    
+  </entry>
+  
+</feed>
