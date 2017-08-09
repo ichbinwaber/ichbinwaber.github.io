@@ -2,9 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://waberyang.com/tags/index.html</loc>
+    
+    <lastmod>2017-08-09T16:58:56.503Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://waberyang.com/categories/index.html</loc>
     
-    <lastmod>2017-08-09T14:03:48.906Z</lastmod>
+    <lastmod>2017-08-09T16:58:42.660Z</lastmod>
     
   </url>
   
@@ -12,13 +19,6 @@
     <loc>http://waberyang.com/404.html</loc>
     
     <lastmod>2017-08-08T17:23:20.994Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://waberyang.com/tags/index.html</loc>
-    
-    <lastmod>2017-08-07T16:04:34.246Z</lastmod>
     
   </url>
   
