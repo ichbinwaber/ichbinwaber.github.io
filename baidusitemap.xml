@@ -3,23 +3,71 @@
 
 
     
-    
-    
-    
   <url>
-    <loc>http://waberyang.com/2017/08/07/Hi-I-am-waber/</loc>
-    <lastmod>2017-08-07T15:09:34.136Z</lastmod>
+    <loc>http://waberyang.com/2017/03/02/Hi-I-am-waber/</loc>
+    <lastmod>2017-08-12T09:37:17.510Z</lastmod>
     <data>
         <display>
-        <title>Hi,I am waber</title>
-        <pubTime>2017-08-07T14:51:52.000Z</pubTime>
+        <title>Hi, I am waber</title>
+        <pubTime>2017-03-02T08:54:04.000Z</pubTime>
         
         <tag>周遭</tag>
          
          
            
+             
+              <breadCrumb title="杂叙" url="http://waberyang.com/categories/%E6%9D%82%E5%8F%99/"/>
+          
         </display>
     </data>
     </url>
 
+    
+  <url>
+    <loc>http://waberyang.com/2017/03/18/Hexo%E8%B8%A9%E5%9D%91%E5%A1%AB%E5%9D%91%E5%B0%8F%E7%BB%93/</loc>
+    <lastmod>2017-08-12T09:36:50.360Z</lastmod>
+    <data>
+        <display>
+        <title>Hexo踩坑填坑小结</title>
+        <pubTime>2017-03-18T08:52:55.000Z</pubTime>
+        
+        <tag>hexo</tag>
+         
+        <tag>优化</tag>
+         
+         
+           
+             
+              <breadCrumb title="Hexo" url="http://waberyang.com/categories/Hexo/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://waberyang.com/2017/03/12/Hexo%E5%8D%9A%E5%AE%A2-Next%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96%E4%B9%8B%E8%B7%AF/</loc>
+    <lastmod>2017-08-12T09:35:39.660Z</lastmod>
+    <data>
+        <display>
+        <title>Hexo博客-Next性能优化之路</title>
+        <pubTime>2017-03-12T08:51:31.000Z</pubTime>
+        
+        <tag>hexo</tag>
+         
+        <tag>优化</tag>
+         
+         
+           
+             
+              <breadCrumb title="Hexo" url="http://waberyang.com/categories/Hexo/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+    
+    
+    
 </urlset>

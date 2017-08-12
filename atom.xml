@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://waberyang.com/"/>
-  <updated>2017-08-07T15:09:34.136Z</updated>
+  <updated>2017-08-12T09:36:50.360Z</updated>
   <id>http://waberyang.com/</id>
   
   <author>
@@ -16,17 +16,63 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hi,I am waber</title>
-    <link href="http://waberyang.com/2017/08/07/Hi-I-am-waber/"/>
-    <id>http://waberyang.com/2017/08/07/Hi-I-am-waber/</id>
-    <published>2017-08-07T14:51:52.000Z</published>
-    <updated>2017-08-07T15:09:34.136Z</updated>
+    <title>Hexo踩坑填坑小结</title>
+    <link href="http://waberyang.com/2017/03/18/Hexo%E8%B8%A9%E5%9D%91%E5%A1%AB%E5%9D%91%E5%B0%8F%E7%BB%93/"/>
+    <id>http://waberyang.com/2017/03/18/Hexo踩坑填坑小结/</id>
+    <published>2017-03-18T08:52:55.000Z</published>
+    <updated>2017-08-12T09:36:50.360Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;Hexo踩坑填坑小结&quot;&gt;&lt;a href=&quot;#Hexo踩坑填坑小结&quot; class=&quot;headerlink&quot; title=&quot;Hexo踩坑填坑小结&quot;&gt;&lt;/a&gt;Hexo踩坑填坑小结&lt;/h4&gt;&lt;h5 id=&quot;github上的repository的命名&quot;&gt;&lt;a href=&quot;#
+    
+    </summary>
+    
+      <category term="Hexo" scheme="http://waberyang.com/categories/Hexo/"/>
+    
+    
+      <category term="hexo" scheme="http://waberyang.com/tags/hexo/"/>
+    
+      <category term="优化" scheme="http://waberyang.com/tags/%E4%BC%98%E5%8C%96/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hexo博客-Next性能优化之路</title>
+    <link href="http://waberyang.com/2017/03/12/Hexo%E5%8D%9A%E5%AE%A2-Next%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96%E4%B9%8B%E8%B7%AF/"/>
+    <id>http://waberyang.com/2017/03/12/Hexo博客-Next性能优化之路/</id>
+    <published>2017-03-12T08:51:31.000Z</published>
+    <updated>2017-08-12T09:35:39.660Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;Hexo博客-Next性能优化之路&quot;&gt;&lt;a href=&quot;#Hexo博客-Next性能优化之路&quot; class=&quot;headerlink&quot; title=&quot;Hexo博客-Next性能优化之路&quot;&gt;&lt;/a&gt;Hexo博客-Next性能优化之路&lt;/h4&gt;&lt;p&gt;首先还是要衷心感谢H
+    
+    </summary>
+    
+      <category term="Hexo" scheme="http://waberyang.com/categories/Hexo/"/>
+    
+    
+      <category term="hexo" scheme="http://waberyang.com/tags/hexo/"/>
+    
+      <category term="优化" scheme="http://waberyang.com/tags/%E4%BC%98%E5%8C%96/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hi, I am waber</title>
+    <link href="http://waberyang.com/2017/03/02/Hi-I-am-waber/"/>
+    <id>http://waberyang.com/2017/03/02/Hi-I-am-waber/</id>
+    <published>2017-03-02T08:54:04.000Z</published>
+    <updated>2017-08-12T09:37:17.510Z</updated>
     
     <summary type="html">
     
       &lt;h4 id=&quot;Hi-I-am-waber&quot;&gt;&lt;a href=&quot;#Hi-I-am-waber&quot; class=&quot;headerlink&quot; title=&quot;Hi, I am waber&quot;&gt;&lt;/a&gt;Hi, I am waber&lt;/h4&gt;&lt;p&gt;这是一个开始&lt;br&gt;我心心念念的个人博客，现在终
     
     </summary>
+    
+      <category term="杂叙" scheme="http://waberyang.com/categories/%E6%9D%82%E5%8F%99/"/>
     
     
       <category term="周遭" scheme="http://waberyang.com/tags/%E5%91%A8%E9%81%AD/"/>
