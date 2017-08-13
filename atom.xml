@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://waberyang.com/"/>
-  <updated>2017-08-12T09:36:50.360Z</updated>
+  <updated>2017-08-13T13:12:23.162Z</updated>
   <id>http://waberyang.com/</id>
   
   <author>
@@ -14,6 +14,26 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Android主流图片加载库</title>
+    <link href="http://waberyang.com/2017/08/13/Android%E4%B8%BB%E6%B5%81%E5%9B%BE%E7%89%87%E5%8A%A0%E8%BD%BD%E5%BA%93/"/>
+    <id>http://waberyang.com/2017/08/13/Android主流图片加载库/</id>
+    <published>2017-08-13T13:00:31.000Z</published>
+    <updated>2017-08-13T13:12:23.162Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;Android主流图片加载库&quot;&gt;&lt;a href=&quot;#Android主流图片加载库&quot; class=&quot;headerlink&quot; title=&quot;Android主流图片加载库&quot;&gt;&lt;/a&gt;Android主流图片加载库&lt;/h4&gt;&lt;h5 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot;
+    
+    </summary>
+    
+      <category term="Android" scheme="http://waberyang.com/categories/Android/"/>
+    
+    
+      <category term="Android，图片加载库" scheme="http://waberyang.com/tags/Android%EF%BC%8C%E5%9B%BE%E7%89%87%E5%8A%A0%E8%BD%BD%E5%BA%93/"/>
+    
+  </entry>
   
   <entry>
     <title>Hexo踩坑填坑小结</title>
